@@ -1,0 +1,18 @@
+.name-label{
+    border: 1px solid black;
+    padding: 3px 6px;
+    border-radius: 2px;
+    background-color: gainsboro;
+    transition: all 0.5s ease-in;
+}
+.name-label:hover{
+    background-color: orange;
+    color: white;
+}
+.name-label:active{
+    color: blue;
+}
+.input-area{
+    padding: 2.8px 6px;
+    margin-left: 4px;
+}
